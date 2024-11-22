@@ -4,9 +4,9 @@
 
 fn main() {
     print("Hello, world!");
-    print("Goodbye, world!");
 }
 
+// A function that prints
 fn print(m: &str) {
     println!("{m}")
 }
